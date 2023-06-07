@@ -1,5 +1,5 @@
 import ProfileCard from "./ProfileCard";
-import './App.css'
+import "./App.css";
 
 const App = () => {
   return (
